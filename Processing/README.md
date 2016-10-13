@@ -41,3 +41,4 @@ void setup()
 }
 ```
 
+![](01/sketch_01_rectangle/image/01-rectangle.png)
