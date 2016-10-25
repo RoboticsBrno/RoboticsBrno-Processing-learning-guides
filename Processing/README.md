@@ -33,12 +33,18 @@ void draw()
 ```processing
 void setup()
 {
-  size(600, 400); // velikost okna, do kterého budeme kreslit: size(šířka, výška)
+  size(1200, 800); // velikost okna, do kterého budeme kreslit: size(šířka, výška)
 
   // rect() - příkaz pro vykreslení obdélníku
   // rect(pozice_x, pozice_y, šířka, výška);
-  rect(100, 50, 400, 300);
+  rect(300, 200, 600, 400);
 }
 ```
 
-![](01/sketch_01_rectangle/image/01-rectangle.png)
+![](01/sketch_01_rectangle/image/01.01-rectangle.png)
+
+Popis jednotlivých parametrů:
+
+![](01/sketch_01_rectangle/image/01.02-rectangle-help.png)
+
+
